@@ -8,5 +8,7 @@ Arguments surrounded by `<>` are required, and arguments surrounded by `[]` are 
 
 ## Usage
 
-**General usage:** `<prefix><settings>` **Settings:** `prefix`, `shiftdescription`, `shift`, `shift`, `interview`, `interview`, `interview`, `training`, `training`, `training`
+**General usage:** `<prefix><settings>` 
+
+**Settings:** `prefix`, `shiftdescription`, `shift`, `shift`, `interview`, `interview`, `interview`, `training`, `training`, `training`
 
