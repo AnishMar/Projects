@@ -10,6 +10,7 @@
 
 **Example:** `vsettings shiftdescription Shift.. Now.. Come!`
 
+
 ### `shiftlink`
 
 **Arguments:** `<link>`
