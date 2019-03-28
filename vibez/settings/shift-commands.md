@@ -10,7 +10,6 @@
 
 **Example:** `vsettings shiftdescription Shift.. Now.. Come!`
 
-
 ### `shiftlink`
 
 **Arguments:** `<link>`
@@ -78,3 +77,4 @@
 **Description:** Change the image shown on your training announcement.
 
 **Example:** `vsettings trainingdescription shiftimage https://cdn.discordapp.com/avatars/559383692376670218/6e82dc84e296be46ad9f242fdb800da5.png?size=2048`
+
