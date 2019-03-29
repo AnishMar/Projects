@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Donate-Here-ff69b4.svg?style=for-the-badge&logo=patreon" alt="Support Vibez on Patreon!">
   </a>
   <a href="https://www.nodejs.org/downloads/">
-    <img src="https://img.shields.io/badge/Made%20With-Python%203.7-blue.svg?style=for-the-badge" alt="Made with Nodejs">
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20using%20-JavaScript-blue.svg?style=for-the-badge&logo=javascript" alt="Made with Nodejs">
   </a>
 </p>
 <p align="center">
