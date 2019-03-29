@@ -9,7 +9,7 @@
 <h4 align="center">ROBLOX, Music, Moderation, everything you need!</h4>
 
 <p align="center">
-  <a href="https://www.patreon.com/Red_Devs">
+  <a href="https://www.patreon.com/Vibez">
     <img src="https://img.shields.io/badge/Donate-Here-ff69b4.svg?style=for-the-badge&logo=patreon" alt="Support Vibez on Patreon!">
   </a>
   <a href="https://www.nodejs.org/downloads/">
